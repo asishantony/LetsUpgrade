@@ -4,11 +4,11 @@ using namespace std;
 /*
 Enter the data for employee in struct using udf
 empno,empnm,basicsalary
-da =20% 0f basic
-hra =20% of basic
+da =20% 0f bs
+hra =20% of bs
 med =1000 rs
-pf=25% of basic
-loan= 8% of basic;
+pf=25% of bs
+loan= 8% of bs;
 cal gross sal and netslaray and display salary slip
 */
 struct employee
